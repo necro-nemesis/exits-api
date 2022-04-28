@@ -3,7 +3,7 @@
     {
       "id": 1,
       "exit": "exit.loki",
-      "auth": ex,
+      "auth": "ex",
       "geo": "United States",
       "rate": 0,
       "rating": 10
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "exit": "xite.loki",
-      "auth": xi,
+      "auth": "xi",
       "geo": "Iceland",
       "rate": 0,
       "rating": 10
@@ -19,7 +19,7 @@
     {
       "id": 3,
       "exit": "peter.loki",
-      "auth": pe,
+      "auth": ,
       "geo": "United States",
       "rate": 0,
       "rating": 10
@@ -27,7 +27,7 @@
     {
       "id": 4,
       "exit": "blackhouse1.loki",
-      "auth": b1,
+      "auth": "b1",
       "geo": "Netherlands",
       "rate": 0,
       "rating": 10
@@ -35,7 +35,7 @@
     {
       "id": 5,
       "exit": "blackhouse2.loki",
-      "auth": b2,
+      "auth": "b2",
       "geo": "Netherlands",
       "rate": 0,
       "rating": 10
@@ -43,7 +43,7 @@
        {
       "id": 6,
       "exit": "euroexit.loki",
-      "auth": eu,
+      "auth": "eu",
       "geo": "Luxembourg",
       "rate": 0,
       "rating": 10
