@@ -39,6 +39,14 @@
       "geo": "Netherlands",
       "rate": 0,
       "rating": 10
+    },
+       {
+      "id": 6,
+      "exit": "euroexit.loki",
+      "auth": 0,
+      "geo": "Germany",
+      "rate": 0,
+      "rating": 10
     }
   ]
 }
