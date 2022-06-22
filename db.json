@@ -32,9 +32,9 @@
       "rate": 0,
       "rating": 10
     },
-    {
+        {
       "id": 5,
-      "exit": "blackhouse1.loki",
+      "exit": "secret.loki",
       "auth": "",
       "geo": "Netherlands",
       "rate": 0,
@@ -42,6 +42,14 @@
     },
     {
       "id": 6,
+      "exit": "blackhouse1.loki",
+      "auth": "",
+      "geo": "Netherlands",
+      "rate": 0,
+      "rating": 10
+    },
+    {
+      "id": 7,
       "exit": "blackhouse2.loki",
       "auth": "",
       "geo": "Netherlands",
@@ -49,7 +57,7 @@
       "rating": 10
     },
        {
-      "id": 7,
+      "id": 8,
       "exit": "euroexit.loki",
       "auth": "",
       "geo": "Luxembourg",
